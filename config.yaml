@@ -1,5 +1,5 @@
 login_creds: {'user':'admin' , 'password':'admin'}
-GRAFANA_INFO: {'host': '3.16.7.17','port': 3000}
+GRAFANA_INFO: {'host': '13.16.7.17','port': 3000}
 dashboard: ["Performance","Business Dashboard","Technical Dashboard","Node Exporter Full"]
 
 time_frame: 'from=now-5m&to=now'
